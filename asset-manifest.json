@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PhotoGallery/static/css/main.eabb8f1d.chunk.css",
+    "main.js": "/PhotoGallery/static/js/main.41b4a85c.chunk.js",
+    "main.js.map": "/PhotoGallery/static/js/main.41b4a85c.chunk.js.map",
+    "runtime-main.js": "/PhotoGallery/static/js/runtime-main.57501087.js",
+    "runtime-main.js.map": "/PhotoGallery/static/js/runtime-main.57501087.js.map",
+    "static/js/2.9ac53c96.chunk.js": "/PhotoGallery/static/js/2.9ac53c96.chunk.js",
+    "static/js/2.9ac53c96.chunk.js.map": "/PhotoGallery/static/js/2.9ac53c96.chunk.js.map",
+    "index.html": "/PhotoGallery/index.html",
+    "precache-manifest.4f42c0f86f92393b7fcaaab33362c244.js": "/PhotoGallery/precache-manifest.4f42c0f86f92393b7fcaaab33362c244.js",
+    "service-worker.js": "/PhotoGallery/service-worker.js",
+    "static/css/main.eabb8f1d.chunk.css.map": "/PhotoGallery/static/css/main.eabb8f1d.chunk.css.map",
+    "static/media/arrow.92498b0d.svg": "/PhotoGallery/static/media/arrow.92498b0d.svg",
+    "static/media/brydes_whale.jpg": "/PhotoGallery/static/media/brydes_whale.131f9dac.jpg",
+    "static/media/grey_whale.jpg": "/PhotoGallery/static/media/grey_whale.d2cc82f7.jpg",
+    "static/media/humpback_whale_breaching.jpg": "/PhotoGallery/static/media/humpback_whale_breaching.ba6d0102.jpg",
+    "static/media/humpback_whale_fluking.jpg": "/PhotoGallery/static/media/humpback_whale_fluking.60c8a541.jpg",
+    "static/media/sperm_whale_fluking.jpg": "/PhotoGallery/static/media/sperm_whale_fluking.eef1c203.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57501087.js",
+    "static/js/2.9ac53c96.chunk.js",
+    "static/css/main.eabb8f1d.chunk.css",
+    "static/js/main.41b4a85c.chunk.js"
+  ]
+}
